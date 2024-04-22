@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "body": "Walk the dog",
+      "done": false,
+      "id": 0,
+      "priority": 3,
+      "title": "dog"
+    },
+    {
+      "body": "Pay the bills",
+      "done": false,
+      "id": 1,
+      "priority": 1,
+      "title": "bills"
+    }
+  ]
+}
